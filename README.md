@@ -46,4 +46,4 @@ Goodbye until we meet</h4>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" alt="git" width="40" height="40"/></a>
     
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enessari&theme=onedark&no-bg=true&column=7&margin-w=15&margin-h=15" alt="enessari" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enessari&theme=dracula&no-bg=true&column=8&margin-w=15&margin-h=15" alt="enessari" /></a></p>
