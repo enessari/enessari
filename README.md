@@ -14,24 +14,9 @@ Goodbye until we meet</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessari&label=Profile%20views&color=0e75b6&style=flat" alt="enessari" /> </p>
 
 - 📫 How to reach me **enessari+github@gmail.com**
-- 🌱 I am currently working at APPIDIA with these roles;
-      - Software Development and Project Manager
-      - Google Cloud Platform Manager (GCP)
-      - Google Partner Relations Officer
-      - Business and Technical Analyst
-      - DevOps and GCP Monitoring tasks
-      - Database Designer
-      - Data / Analytics Manager
-      - Mobile Application Manager
-      - Domain Manager
-      - Account Manager for Facebook Development, Apple Development, Sendgrid, Expo, Github, Twilio, Sentry, FullStory
-      - Pre-Sales / Technical Sales Specialist
-      - Product owner
-      - Social Media Business Specialist
-      - Legal Documents Development Officer
-      - Business Development Officer
-      - UI, UX Test Check and Suggest
-- 🥅 2022 Goals: Learn Go, Airflow, GCP and continue to enhance my Data Science, Project Management, DB, Python skills. 
+- 🌱 TO be Update
+- 🥅 TO be Update
+  2022 Goals: Learn Go, Airflow, GCP and continue to enhance my Data Science, Project Management, DB, Python skills. 
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
 <h3 align="left">Connect with me:</h3>
