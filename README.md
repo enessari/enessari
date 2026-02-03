@@ -1,36 +1,64 @@
-<h3 align="center">Hi 👋 Everyone!</h1>
-<h4 align="center">A Githuber with a high analytical orientation, able to design the big picture and follow the small details. One who has tracking with multiple asynchronous task management.
+<div align="center">
 
-Loves to deal with Puzzle with Lego. The one who carefully untied the knotted ropes and necklaces. Using the possible paths to reach the desired destination with the shortest route. The one who provides improvement in group data by sharing these ways he/she uses.
+# Hi there, I'm Abdullah Enes SARI 👋
 
-Even if you do not have any job offers or questions, you can check my repo and contact me for sharing or curiosity.
+### 🚀 Founder @ ONMARTECH LLC | AI & Data Engineering Expert
 
-Moreover, I would like to help with the subjects I know. :)
+[![GitHub followers](https://img.shields.io/github/followers/enessari?style=social)](https://github.com/enessari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/enessari)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:contact@onmartech.com)
 
-I would be happy to be open to any relocation or any remote job offer in the Solar System.
+</div>
 
-Goodbye until we meet</h4>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enessari&label=Profile%20views&color=0e75b6&style=flat" alt="enessari" /> </p>
+## 🔭 What I'm Working On
 
-- 📫 How to reach me **enessari+github@gmail.com**
-- 🌱 TO be Update
-- 🥅 TO be Update
-  2022 Goals: Learn Go, Airflow, GCP and continue to enhance my Data Science, Project Management, DB, Python skills. 
-- ⚡ Fun fact: I love to play guitar, camping, tracking.**
+- **[Metabase AI Assistant](https://github.com/enessari/metabase-ai-assistant)** - The most powerful MCP Server for Metabase with 111+ tools
+- Building AI-powered tools for Business Intelligence
+- Enterprise data solutions at **ONMARTECH LLC**
 
-<h3 align="left">Connect with me:</h3>
-<a href="//twitter.com/enessari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/enessari" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/enessari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enessari/" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="30" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5240" height="30" width="30" /></a>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" alt="git" width="40" height="40"/></a>
-    
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enessari&theme=dracula&no-bg=true&column=8&margin-w=15&margin-h=15" alt="enessari" /></a></p>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enessari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+```
+Python • JavaScript/TypeScript • Go • SQL
+```
+
+**Data & AI**
+```
+PostgreSQL • BigQuery • Airflow • LLM/GPT • MCP
+```
+
+**Cloud & DevOps**
+```
+GCP • AWS • Docker • Kubernetes • CI/CD
+```
+
+---
+
+## 📊 Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [metabase-ai-assistant](https://github.com/enessari/metabase-ai-assistant) | 🚀 111+ tools MCP Server for Metabase | [![Stars](https://img.shields.io/github/stars/enessari/metabase-ai-assistant?style=social)](https://github.com/enessari/metabase-ai-assistant) |
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **Company:** [ONMARTECH LLC](https://onmartech.com)
+- 📧 **Email:** contact@onmartech.com
+- 🌍 **Location:** Open to remote opportunities worldwide
+
+---
+
+<div align="center">
+
+### 💡 "Building bridges between AI and Business Intelligence"
+
+![Profile Views](https://komarev.com/ghpvc/?username=enessari&color=blueviolet)
+
+</div>
