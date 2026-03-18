@@ -50,7 +50,7 @@ GCP • AWS • Docker • Kubernetes • CI/CD
 ## 📫 Let's Connect
 
 - 💼 **Company:** [ONMARTECH LLC](https://onmartech.com)
-- 📧 **Email:** contact@onmartech.com
+- 📧 **Email:** info@onmartech.com
 - 🌍 **Location:** Open to remote opportunities worldwide
 
 ---
