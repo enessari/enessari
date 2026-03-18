@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/enessari?style=social)](https://github.com/enessari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/enessari)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:contact@onmartech.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:info@onmartech.com)
 
 </div>
 
