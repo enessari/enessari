@@ -14,8 +14,8 @@
 
 ## 🔭 What I'm Working On
 
-- **[Quanta SDK](https://github.com/ONMARTECH/quanta-sdk)** ⚛️ — AI-native quantum computing SDK for Python. 31 gates, 16 MCP tools, IBM Quantum hardware integration, 620+ tests.
-- **[Metabase AI Assistant](https://github.com/enessari/metabase-ai-assistant)** 🤖 — The most powerful MCP Server for Metabase with 111+ tools.
+- **[Quanta SDK](https://github.com/ONMARTECH/quanta-sdk)** ⚛️ — AI-native quantum computing SDK for Python. 31 gates, 16 MCP tools, IBM Quantum hardware, 620+ tests.
+- **[Metabase AI Assistant](https://github.com/enessari/metabase-ai-assistant)** 🤖 — The most powerful MCP Server for Metabase with 111+ tools
 - Building **quantum-enhanced AI** tools and enterprise data solutions at **ONMARTECH LLC**
 
 ---
@@ -29,7 +29,7 @@ Python • JavaScript/TypeScript • Go • SQL
 
 **Quantum Computing**
 ```
-Quanta SDK • IBM Quantum • Qiskit • VQE • QAOA • QML • QEC
+Quanta SDK • IBM Quantum • VQE • QAOA • QML • QEC • Surface Code
 ```
 
 **Data & AI**
